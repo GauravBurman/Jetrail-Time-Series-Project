@@ -24,7 +24,10 @@ We will try to validate each of these hypothesis based on the datasets
 The ARIMA forecasting for a stationary time series is nothing but a linear (like a linear regression) equation.
 ## What is a stationary time series?
 There are three basic criterion for a series to be classified as stationary series :
+
 •	The mean of the time series should not be a function of time. It should be constant.
+
 •	The variance of the time series should not be a function of time.
+
 •	The covariance of the ith term and the (i+m)th term should not be a function of time.
 
